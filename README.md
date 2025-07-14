@@ -6,7 +6,7 @@ Keep yourself inspired with a new verse every time you open a new tab!
 ---
 
 ## 🚀 Live Demo  
-🔗 [Click here to view the website](https://mohamed-cloud595.github.io/Personal-Website/)
+🔗 [Click here to view the website](https://mohamed-cloud595.github.io/Quran_Tab_landing_page/)
 
 ---
 
